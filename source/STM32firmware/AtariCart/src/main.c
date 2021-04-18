@@ -25,6 +25,10 @@
 #include <stdio.h>
 #include <string.h>
 
+#include "ace8bit.h"
+
+#include "flash.h"
+
 #include "rom.h" /* unsigned char cart_rom[64*1024] */
 #include "osrom.h"
 
@@ -32,6 +36,12 @@ unsigned char cart_ram1[64*1024];
 unsigned char cart_ram2[64*1024] __attribute__((section(".ccmram")));
 unsigned char cart_d5xx[256] = {0};
 char errorBuf[40];
+
+int ace_file = 0;
+uint32_t ace_file_entry_point;
+
+static const unsigned char MagicNumber[] = "ACE-8BIT";
+
 
 #define CART_CMD_OPEN_ITEM			0x00
 #define CART_CMD_READ_CUR_DIR		0x01
@@ -74,6 +84,7 @@ char errorBuf[40];
 #define CART_TYPE_DIAMOND_64K		23	// 64k
 #define CART_TYPE_EXPRESS_64K		24	// 64k
 #define CART_TYPE_BLIZZARD_16K		25	// 16k
+#define CART_TYPE_ACE				253 // ARM Cartridge Executable
 #define CART_TYPE_ATR				254
 #define CART_TYPE_XEX				255
 
@@ -92,7 +103,7 @@ int entry_compare(const void* p1, const void* p2)
 	DIR_ENTRY* e2 = (DIR_ENTRY*)p2;
 	if (e1->isDir && !e2->isDir) return -1;
 	else if (!e1->isDir && e2->isDir) return 1;
-	else return stricmp(e1->long_filename, e2->long_filename);
+	else return strcasecmp(e1->long_filename, e2->long_filename);
 }
 
 char *get_filename_ext(char *filename) {
@@ -103,8 +114,9 @@ char *get_filename_ext(char *filename) {
 
 int is_valid_file(char *filename) {
 	char *ext = get_filename_ext(filename);
-	if (stricmp(ext, "CAR") == 0 || stricmp(ext, "ROM") == 0
-			|| stricmp(ext, "XEX") == 0 || stricmp(ext, "ATR") == 0)
+	if (strcasecmp(ext, "CAR") == 0 || strcasecmp(ext, "ROM") == 0
+			|| strcasecmp(ext, "ACE") == 0
+			|| strcasecmp(ext, "XEX") == 0 || strcasecmp(ext, "ATR") == 0)
 		return 1;
 	return 0;
 }
@@ -206,7 +218,7 @@ int read_directory(char *path) {
 					continue;
 				dst->isDir = fno.fattrib & AM_DIR ? 1 : 0;
 				if (!dst->isDir)
-					if (!is_valid_file(fno.fname)) continue;
+					if (!is_valid_file(fno.fname)) continue;  // skip if not valid filename (based on file extension)
 				// copy file record to first ram block
 	            strcpy(dst->filename, fno.fname);
 				if (fno.lfname[0]) {
@@ -329,6 +341,12 @@ int write_atr_sector(uint16_t sector, uint8_t page, uint8_t *buf) {
 
 /* CARTRIDGE/XEX HANDLING */
 
+/*
+ * Read specified file into S-RAM
+ * return value is cartridge type
+ */
+
+
 int load_file(char *filename) {
 	TM_DELAY_Init();
 	FATFS FatFs;
@@ -337,10 +355,18 @@ int load_file(char *filename) {
 	unsigned char carFileHeader[16];
 	UINT br, size = 0;
 
+	ace_file = 0;
+
 	if (strncasecmp(filename+strlen(filename)-4, ".CAR", 4) == 0)
 		car_file = 1;
 	if (strncasecmp(filename+strlen(filename)-4, ".XEX", 4) == 0)
 		xex_file = 1;
+
+	if (strncasecmp(filename+strlen(filename)-4, ".ACE", 4) == 0) {
+		car_file = 1;
+		ace_file = 1;
+	}
+
 
 	if (f_mount(&FatFs, "", 1) != FR_OK) {
 		strcpy(errorBuf, "Can't read SD card");
@@ -353,7 +379,7 @@ int load_file(char *filename) {
 	}
 
 	// read the .CAR file header?
-	if (car_file) {
+	if (car_file && (ace_file == 0)) {
 		if (f_read(&fil, carFileHeader, 16, &br) != FR_OK || br != 16) {
 			strcpy(errorBuf, "Bad CAR file");
 			goto closefile;
@@ -389,6 +415,164 @@ int load_file(char *filename) {
 			strcpy(errorBuf, "Unsupported CAR type");
 			goto closefile;
 		}
+	} else if (car_file && ace_file) {
+
+		/*
+		 * ACE file: read file contents into RAM,
+		 * 				validate header,
+		 * 				write to flash memory
+		 *
+		 * 			reading and flashing is done in chunks of BUFFER_SIZE
+		 * 			also special case of less data to read than BUFFER_SIZE
+		 */
+
+
+		// default cartridge size, this gets changed to CART_TYPE_NONE in error situations
+		cart_type = CART_TYPE_8K;
+
+		// check that the file at least has a valid header
+
+		// file size first, is file big enough to have a header?
+
+		unsigned int image_size;
+
+		image_size = f_size(&fil);
+
+		if (image_size < sizeof(ACEFileHeader)) {
+			cart_type = CART_TYPE_NONE;
+			strcpy(errorBuf, "ACE file truncated");
+			goto closefile;
+		}
+
+		// read ACE file into buffer
+
+		// see how much data to read
+		// (read in BUFFER_SIZE blocks of data if file is bigger than buffer)
+		unsigned int bytes_to_read = image_size > BUFFER_SIZE ? BUFFER_SIZE : image_size;
+
+		UINT bytes_read_from_file;
+
+		// load data from file into cartridge memory
+		FRESULT read_result = f_read(&fil, &cart_ram1[0], bytes_to_read, &bytes_read_from_file);
+
+		if (read_result != FR_OK) {
+			strcpy(errorBuf, "Can't read from ACE file");
+			cart_type = CART_TYPE_NONE;
+			goto closefile;
+		}
+
+		// Validate header
+		ACEFileHeader * header = (ACEFileHeader *)&cart_ram1[0];
+
+		// Check magic number text
+		int valid_header_magic_number = ((strncmp((char *) MagicNumber, (char *) header->magic_number, ACE_MAGIC_NUMBER_STRING_LENGTH)) == 0);
+
+		if (!valid_header_magic_number) {
+			cart_type = CART_TYPE_NONE;
+			strcpy(errorBuf, "Not an 8-Bit ACE file");
+			goto closefile;
+		}
+
+		// preserve values in header
+		uint32_t ace_rom_size = header->rom_size;
+		ace_file_entry_point = header->entry_point;
+
+		// check that rom_size is less than maximum rom size (448 KB)
+		if (ace_rom_size > ACE_MAX_ROM_SIZE) {
+			cart_type = CART_TYPE_NONE;
+			strcpy(errorBuf, "ACE ROM size too big");
+			goto closefile;
+		}
+
+		// file passed all validity tests
+
+		// try to write file buffer contents to FLASH
+
+	    flash_context ctx;
+
+	    int can_prepare_flash = prepare_flash(ace_rom_size, &ctx);
+
+	    if (!can_prepare_flash) {
+			strcpy(errorBuf, "Can't start write to Flash");
+			cart_type = CART_TYPE_NONE;
+			goto closefile;
+	    }
+
+	    int write_to_flash_status = write_flash(bytes_to_read, &cart_ram1[0], &ctx);
+
+	    if (!write_to_flash_status) {
+			strcpy(errorBuf, "Can't write to Flash");
+			cart_type = CART_TYPE_NONE;
+			goto closefile;
+	    }
+
+	    // data read from file has been written to flash successfully
+
+	    // check to see if all data has now been written to flash
+	    if (ace_rom_size <= BUFFER_SIZE) {
+	    	// file written to flash, can jump to entry point
+
+			// tidy up
+
+			f_close(&fil);
+			f_mount(0, "", 1);
+
+
+	//		ace_rom_entry_point
+
+			return cart_type;					// this might be the place to jump through ACE vector?
+
+	    }
+
+	    // rest of file needs to be read in and written to flash
+	    // (in blocks of BUFFER_SIZE)
+
+	    int bytes_written_to_flash = BUFFER_SIZE;
+
+//	    int image_size_remaining = image_size - bytes_written_to_flash;
+
+	    while (bytes_written_to_flash < ace_rom_size) {
+
+	    	// read next block from file
+	    	bytes_to_read = image_size > BUFFER_SIZE ? BUFFER_SIZE : image_size;
+
+			read_result = f_read(&fil, &cart_ram1[0], bytes_to_read, &bytes_read_from_file);
+
+			if (read_result != FR_OK) {
+				strcpy(errorBuf, "Can't read from ACE file");
+				cart_type = CART_TYPE_NONE;
+				goto closefile;
+
+			}
+
+			// write next block to flash
+
+		    write_to_flash_status = write_flash(bytes_to_read, &cart_ram1[0], &ctx);
+
+		    if (!write_to_flash_status) {
+				strcpy(errorBuf, "Can't write block to Flash");
+				cart_type = CART_TYPE_NONE;
+				goto closefile;
+
+		    }
+	    	bytes_written_to_flash += bytes_to_read;
+//	    	image_size_remaining -= bytes_to_read;    // ?? not uswful?
+
+	    }
+
+
+		// tidy up
+
+		f_close(&fil);
+		f_mount(0, "", 1);
+
+    	// Should never return
+    	((void (*)())ace_file_entry_point)();
+
+//		ace_rom_entry_point
+
+		return cart_type;					// this might be the place to jump through ACE vector?
+
 	}
 
 	// set a default error
@@ -566,6 +750,10 @@ void config_gpio_addr(void) {
  Atari polls $D500 until it reads $11. At this point it knows the mcu is back
  and it is safe to rts back to code in cartridge ROM again.
  Results of the command are in $D501-$D5DF
+
+ This function serves up boot rom/cartridge data from rom.h onto the 8-bit bus, or
+ returns the command code written to $D5DF by the 8-bit, for further processing by
+ the MCU
 */
 
 int emulate_boot_rom(int atrMode) {
@@ -598,15 +786,16 @@ int emulate_boot_rom(int atrMode) {
 				while (CONTROL_IN & PHI2)
 					data = DATA_IN;
 				cart_d5xx[addr&0xFF] = data>>8;
-				if ((addr&0xFF) == 0xDF)	// write to $D5DF
+				if ((addr&0xFF) == 0xDF)	// write to $D5DF, that is, cartridge command sent,
+											// so return command to calling code
 					break;
 			}
 		}
 		if (!(c & S5)) {
-			// normal cartridge read
+			// normal cartridge read, so serve up data from firmware boot rom image in rom.h
 			SET_DATA_MODE_OUT
 			addr = ADDR_IN;
-			DATA_OUT = ((uint16_t)(UnoCart_rom[addr]))<<8;
+			DATA_OUT = ((uint16_t)(UnoCart_rom[addr]))<<8;  /* read from rom.h array */
 			// wait for phi2 low
 			while (CONTROL_IN & PHI2) ;
 			SET_DATA_MODE_IN
@@ -1329,6 +1518,7 @@ void emulate_cartridge(int cartType) {
 }
 
 int main(void) {
+
 	/* Ouptut: LEDS - PB{0..1}, RD5 - PB2, RD4 - PB4 */
 	config_gpio_leds_RD45();
 	/* InOut: Data - PE{8..15} */
@@ -1345,6 +1535,15 @@ int main(void) {
 	init();
 
 	while (1) {
+
+		/*
+		 * loop
+		 *  emulate boot rom until Atari sends command by writing command to $D5DF,
+		 *  then process that command, and loop back and emulate boot rom until next
+		 *  command written to $D5DF
+		 */
+
+
 		GREEN_LED_OFF
 
 		int cmd = emulate_boot_rom(atrMode);
@@ -1370,7 +1569,7 @@ int main(void) {
 					strcpy(path, curPath); // file in current directory
 				strcat(path, "/");
 				strcat(path, entry[n].filename);
-				if (stricmp(get_filename_ext(entry[n].filename), "ATR")==0)
+				if (strcasecmp(get_filename_ext(entry[n].filename), "ATR")==0)
 				{	// ATR
 					cart_d5xx[0x01] = 3;	// ATR
 					cartType = CART_TYPE_ATR;
@@ -1484,6 +1683,7 @@ int main(void) {
 		// NO CART
 		else if (cmd == CART_CMD_NO_CART)
 			cartType = 0;
+
 		// REBOOT TO CART
 		else if (cmd == CART_CMD_ACTIVATE_CART)
 		{
@@ -1495,8 +1695,16 @@ int main(void) {
 					memcpy(&cart_d5xx[0x02], &mountedATRs[0].atrHeader, 16);
 				cart_d5xx[0x01] = ret;
 			}
-			else
-				emulate_cartridge(cartType);
+			else {
+				if (ace_file) {
+			    	// Should never return
+			    	((void (*)())ace_file_entry_point)();
+				}
+				else {
+					emulate_cartridge(cartType);
+
+				}
+			}
 		}
 	}
 

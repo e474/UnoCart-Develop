@@ -1,0 +1,6 @@
+main.c:116:6:config_gpio_leds_RD45	8	static
+main.c:130:6:config_gpio_sig	8	static
+main.c:144:6:config_gpio_data	8	static
+main.c:160:6:config_gpio_addr	8	static
+main.c:194:5:emulate_cartridge	24	static
+main.c:252:5:main	24	static

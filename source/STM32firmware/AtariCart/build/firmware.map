@@ -1,0 +1,1913 @@
+Archive member included to satisfy reference by file (symbol)
+
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+                              build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o (__aeabi_dmul)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+                              build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o (__aeabi_ui2d)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+                              build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o (__aeabi_d2uiz)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (exit)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (__libc_init_array)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-malloc.o)
+                              build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o (malloc)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-malloc.o) (_malloc_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+                              build/src/main.o (memcpy)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o (memset)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mlock.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o) (__malloc_lock)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+                              build/src/main.o (qsort)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-sbrkr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o) (_sbrk_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-stpcpy.o)
+                              build/src/main.o (stpcpy)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasecmp.o)
+                              build/src/main.o (strcasecmp)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasestr.o)
+                              build/src/main.o (strcasestr)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcpy.o)
+                              build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o (strcpy)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strlen.o)
+                              build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o (strlen)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncasecmp.o)
+                              build/src/main.o (strncasecmp)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncmp.o)
+                              build/src/cartridge_ace.o (strncmp)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncpy.o)
+                              build/src/main.o (strncpy)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strrchr.o)
+                              build/src/main.o (strrchr)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o) (__call_exitprocs)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o) (atexit)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-ctype_.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasecmp.o) (_ctype_)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-freer.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-malloc.o) (_free_r)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mlock.o) (__retarget_lock_acquire_recursive)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memchr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasestr.o) (memchr)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-reent.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-sbrkr.o) (errno)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strchr.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strrchr.o) (strchr)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o) (__register_exitproc)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-sbrkr.o) (_sbrk)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+                              build/src/tiny_printf.o (_write)
+/opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+                              /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o) (_exit)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+ .data          0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000000000000       0x7c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+ .text          0x0000000000000000       0x14 build/src/startup_stm32f40xx.o
+ .data          0x0000000000000000        0x0 build/src/startup_stm32f40xx.o
+ .bss           0x0000000000000000        0x0 build/src/startup_stm32f40xx.o
+ .text          0x0000000000000000        0x0 build/src/system_stm32f4xx.o
+ .data          0x0000000000000000        0x0 build/src/system_stm32f4xx.o
+ .bss           0x0000000000000000        0x0 build/src/system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0x70 build/src/system_stm32f4xx.o
+ .data.AHBPrescTable
+                0x0000000000000000       0x10 build/src/system_stm32f4xx.o
+ .text          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .data          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .bss           0x0000000000000000        0x0 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .text.TM_DELAY_EnableDelayTimer
+                0x0000000000000000       0x18 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .text.TM_DELAY_DisableDelayTimer
+                0x0000000000000000       0x10 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .text.TM_DELAY_TimerCreate
+                0x0000000000000000       0x48 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .text.TM_DELAY_TimerDelete
+                0x0000000000000000       0x68 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .text.TM_DELAY_TimerStop
+                0x0000000000000000        0x8 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .text.TM_DELAY_TimerStart
+                0x0000000000000000        0x8 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .text.TM_DELAY_TimerReset
+                0x0000000000000000        0x8 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .text.TM_DELAY_TimerAutoReload
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .text.TM_DELAY_TimerAutoReloadValue
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .bss.TM_TimingDelay
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .text          0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .data          0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .bss           0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_DeInit
+                0x0000000000000000       0x44 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_HSEConfig
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_WaitForHSEStartUp
+                0x0000000000000000       0x34 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_AdjustHSICalibrationValue
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_HSICmd
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_LSEConfig
+                0x0000000000000000       0x28 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_LSICmd
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_PLLConfig
+                0x0000000000000000       0x24 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_PLLCmd
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_PLLI2SConfig
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_PLLI2SCmd
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_ClockSecuritySystemCmd
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_MCO1Config
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_MCO2Config
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_SYSCLKConfig
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_GetSYSCLKSource
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_HCLKConfig
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_PCLK1Config
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_PCLK2Config
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_GetClocksFreq
+                0x0000000000000000       0x90 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKConfig
+                0x0000000000000000       0x30 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_RTCCLKCmd
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_BackupResetCmd
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_I2SCLKConfig
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_TIMCLKPresConfig
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphResetCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphResetCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphResetCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphResetCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphResetCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_ITConfig
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_GetFlagStatus
+                0x0000000000000000       0x34 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_ClearFlag
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_GetITStatus
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text.RCC_ClearITPendingBit
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .data.APBAHBPrescTable
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .text          0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .data          0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .bss           0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_DeInit
+                0x0000000000000000      0x118 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_StructInit
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_PinLockConfig
+                0x0000000000000000       0x24 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_ReadInputDataBit
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_ReadInputData
+                0x0000000000000000        0x8 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputDataBit
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_ReadOutputData
+                0x0000000000000000        0x8 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_SetBits
+                0x0000000000000000        0x4 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_ResetBits
+                0x0000000000000000        0x4 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_WriteBit
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_Write
+                0x0000000000000000        0x4 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_ToggleBits
+                0x0000000000000000        0x8 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text.GPIO_PinAFConfig
+                0x0000000000000000       0x28 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .text          0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .data          0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .bss           0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_I2S_DeInit
+                0x0000000000000000       0xd0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.I2S_Init
+                0x0000000000000000       0xdc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.I2S_StructInit
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_Cmd  0x0000000000000000       0x1c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.I2S_Cmd  0x0000000000000000       0x1c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_DataSizeConfig
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_BiDirectionalLineConfig
+                0x0000000000000000       0x20 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_NSSInternalSoftwareConfig
+                0x0000000000000000       0x20 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_SSOutputCmd
+                0x0000000000000000       0x1c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_TIModeCmd
+                0x0000000000000000       0x1c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.I2S_FullDuplexConfig
+                0x0000000000000000       0x54 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_I2S_ReceiveData
+                0x0000000000000000        0x8 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_I2S_SendData
+                0x0000000000000000        0x4 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_CalculateCRC
+                0x0000000000000000       0x1c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_TransmitCRC
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_GetCRC
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_GetCRCPolynomial
+                0x0000000000000000        0x8 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_I2S_DMACmd
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_I2S_ITConfig
+                0x0000000000000000       0x20 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_I2S_GetFlagStatus
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_I2S_ClearFlag
+                0x0000000000000000        0x8 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_I2S_GetITStatus
+                0x0000000000000000       0x2c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text.SPI_I2S_ClearITPendingBit
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .text          0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .data          0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .bss           0x0000000000000000        0x0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_SetLatency
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_PrefetchBufferCmd
+                0x0000000000000000       0x1c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheCmd
+                0x0000000000000000       0x1c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_DataCacheCmd
+                0x0000000000000000       0x1c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_InstructionCacheReset
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_DataCacheReset
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_Unlock
+                0x0000000000000000       0x20 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_Lock
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_Unlock
+                0x0000000000000000       0x20 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_Lock
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_BORConfig
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_GetUser
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_GetWRP
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_GetWRP1
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_GetRDP
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_GetBOR
+                0x0000000000000000       0x10 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_ITConfig
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_GetFlagStatus
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_ClearFlag
+                0x0000000000000000        0xc build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_GetStatus
+                0x0000000000000000       0x34 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x94 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_EraseSector
+                0x0000000000000000       0x74 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_EraseAllSectors
+                0x0000000000000000       0x5c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_ProgramDoubleWord
+                0x0000000000000000       0x44 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_ProgramWord
+                0x0000000000000000       0x40 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_ProgramHalfWord
+                0x0000000000000000       0x40 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_ProgramByte
+                0x0000000000000000       0x3c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_WRPConfig
+                0x0000000000000000       0x2c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_WRP1Config
+                0x0000000000000000       0x2c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_RDPConfig
+                0x0000000000000000       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_UserConfig
+                0x0000000000000000       0x2c build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text.FLASH_OB_Launch
+                0x0000000000000000       0x14 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .debug_info    0x0000000000000000      0x9dd build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .debug_abbrev  0x0000000000000000      0x26d build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .debug_loc     0x0000000000000000      0x7b1 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .debug_aranges
+                0x0000000000000000      0x118 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .debug_ranges  0x0000000000000000      0x160 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .debug_line    0x0000000000000000      0x9de build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .debug_str     0x0000000000000000      0x628 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .comment       0x0000000000000000       0x4e build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .debug_frame   0x0000000000000000      0x294 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .ARM.attributes
+                0x0000000000000000       0x34 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+ .text          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .data          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .bss           0x0000000000000000        0x0 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text.TM_SPI_GetPrescalerFromMaxFrequency
+                0x0000000000000000       0x68 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text.TM_SPI_SetDataSize
+                0x0000000000000000       0x3c build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text.TM_SPI_SendMulti
+                0x0000000000000000       0x48 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text.TM_SPI_SendMulti16
+                0x0000000000000000       0x48 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text.TM_SPI_WriteMulti16
+                0x0000000000000000       0x34 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text.TM_SPI_ReadMulti16
+                0x0000000000000000       0x40 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text.TM_SPI_InitWithMode
+                0x0000000000000000       0xb4 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text.TM_SPI_InitFull
+                0x0000000000000000       0xb0 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text.TM_SPI6_INT_InitPins
+                0x0000000000000000       0x44 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .data          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .bss           0x0000000000000000        0x0 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_DeInit
+                0x0000000000000000       0x54 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_SetPinAsInput
+                0x0000000000000000       0x30 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_SetPinAsOutput
+                0x0000000000000000       0x34 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_SetPinAsAnalog
+                0x0000000000000000       0x30 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_SetPinAsAlternate
+                0x0000000000000000       0x34 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_SetPullResistor
+                0x0000000000000000       0x3c build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_Lock
+                0x0000000000000000       0x10 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_GetPinSource
+                0x0000000000000000       0x18 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_GetPortSource
+                0x0000000000000000       0x10 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_INT_EnableClock
+                0x0000000000000000       0x20 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_INT_DisableClock
+                0x0000000000000000       0x24 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_GetUsedPins
+                0x0000000000000000       0x18 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text.TM_GPIO_GetFreePins
+                0x0000000000000000       0x1c build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .text          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .data          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .bss           0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .text.TM_FATFS_GetDriveSize
+                0x0000000000000000       0x54 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .rodata.TM_FATFS_DriveSize.str1.4
+                0x0000000000000000        0x3 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .text.TM_FATFS_DriveSize
+                0x0000000000000000       0x38 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .rodata.TM_FATFS_USBDriveSize.str1.4
+                0x0000000000000000        0x3 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .text.TM_FATFS_USBDriveSize
+                0x0000000000000000       0x38 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .text.TM_FATFS_TruncateBeginning
+                0x0000000000000000       0xc4 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .text.TM_FATFS_CheckCardDetectPin
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .text.TM_FATFS_SearchCallback
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .rodata.scan_files.str1.4
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .text.scan_files
+                0x0000000000000000       0xec build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .text.TM_FATFS_Search
+                0x0000000000000000       0x44 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .bss.lfn.0     0x0000000000000000      0x100 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .debug_info    0x0000000000000000      0xcc4 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .debug_abbrev  0x0000000000000000      0x23a build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .debug_loc     0x0000000000000000      0x745 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .debug_aranges
+                0x0000000000000000       0x58 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .debug_ranges  0x0000000000000000       0x48 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .debug_line    0x0000000000000000      0x5c6 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .debug_str     0x0000000000000000      0x695 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .comment       0x0000000000000000       0x4e build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .debug_frame   0x0000000000000000      0x13c build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .ARM.attributes
+                0x0000000000000000       0x34 build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+ .text          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .data          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .bss           0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_SD_disk_read
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_SD_disk_write
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_SD_disk_ioctl
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_SD_disk_initialize
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_SD_disk_status
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_AddDriver
+                0x0000000000000000       0x34 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_SD_SDIO_disk_initialize
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_SD_SDIO_disk_status
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_SD_SDIO_disk_ioctl
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_SD_SDIO_disk_read
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text.TM_FATFS_SD_SDIO_disk_write
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .text          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .data          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .bss           0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .text          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .data          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .bss           0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .text.TM_FATFS_InitPins
+                0x0000000000000000       0x20 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .text.TM_FATFS_Detect
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .text.TM_FATFS_WriteEnabled
+                0x0000000000000000        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .text          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .data          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .bss           0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .text          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .data          0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .bss           0x0000000000000000        0x0 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.pattern_matching
+                0x0000000000000000       0xf8 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.putc_bfd
+                0x0000000000000000       0x64 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.dir_remove
+                0x0000000000000000       0x94 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.clust2sect
+                0x0000000000000000       0x18 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.get_fat  0x0000000000000000       0x14 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.put_fat  0x0000000000000000       0x20 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_findnext
+                0x0000000000000000       0x48 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_findfirst
+                0x0000000000000000       0x20 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_stat   0x0000000000000000       0x5c build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_getfree
+                0x0000000000000000      0x10c build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_truncate
+                0x0000000000000000       0xf4 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_unlink
+                0x0000000000000000       0xec build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_mkdir  0x0000000000000000      0x214 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_chmod  0x0000000000000000       0x70 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_rename
+                0x0000000000000000      0x1a0 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_utime  0x0000000000000000       0x70 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_getlabel
+                0x0000000000000000       0xe4 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .rodata.f_setlabel.str1.4
+                0x0000000000000000       0x10 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_setlabel
+                0x0000000000000000      0x1a0 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .rodata.f_mkfs.str1.4
+                0x0000000000000000       0x34 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_mkfs   0x0000000000000000      0x62c build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_gets   0x0000000000000000       0x7c build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_putc   0x0000000000000000       0x58 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_puts   0x0000000000000000       0x6c build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_printf
+                0x0000000000000000      0x374 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .rodata.cst.0  0x0000000000000000       0x16 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .rodata.vst.1  0x0000000000000000       0x16 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text          0x0000000000000000        0x0 build/src/cartridge_ace.o
+ .data          0x0000000000000000        0x0 build/src/cartridge_ace.o
+ .bss           0x0000000000000000        0x0 build/src/cartridge_ace.o
+ .text.is_ace_cartridge
+                0x0000000000000000       0x20 build/src/cartridge_ace.o
+ .rodata.launch_ace_cartridge.str1.4
+                0x0000000000000000        0x1 build/src/cartridge_ace.o
+ .text.launch_ace_cartridge
+                0x0000000000000000       0xe0 build/src/cartridge_ace.o
+ .rodata.MagicNumber
+                0x0000000000000000        0x9 build/src/cartridge_ace.o
+ .debug_info    0x0000000000000000      0x72d build/src/cartridge_ace.o
+ .debug_abbrev  0x0000000000000000      0x1c1 build/src/cartridge_ace.o
+ .debug_loc     0x0000000000000000      0x18a build/src/cartridge_ace.o
+ .debug_aranges
+                0x0000000000000000       0x28 build/src/cartridge_ace.o
+ .debug_ranges  0x0000000000000000       0x18 build/src/cartridge_ace.o
+ .debug_line    0x0000000000000000      0x2b9 build/src/cartridge_ace.o
+ .debug_str     0x0000000000000000      0x522 build/src/cartridge_ace.o
+ .comment       0x0000000000000000       0x4e build/src/cartridge_ace.o
+ .debug_frame   0x0000000000000000       0x5c build/src/cartridge_ace.o
+ .ARM.attributes
+                0x0000000000000000       0x34 build/src/cartridge_ace.o
+ .text          0x0000000000000000        0x0 build/src/flash.o
+ .data          0x0000000000000000        0x0 build/src/flash.o
+ .bss           0x0000000000000000        0x0 build/src/flash.o
+ .text.available_flash
+                0x0000000000000000       0x10 build/src/flash.o
+ .text.prepare_flash
+                0x0000000000000000       0xe0 build/src/flash.o
+ .text.write_flash
+                0x0000000000000000       0xd8 build/src/flash.o
+ .rodata.flash_sector
+                0x0000000000000000       0x18 build/src/flash.o
+ .rodata.sector_boundaries
+                0x0000000000000000       0x60 build/src/flash.o
+ .debug_info    0x0000000000000000      0x57b build/src/flash.o
+ .debug_abbrev  0x0000000000000000      0x2c3 build/src/flash.o
+ .debug_loc     0x0000000000000000      0x384 build/src/flash.o
+ .debug_aranges
+                0x0000000000000000       0x30 build/src/flash.o
+ .debug_ranges  0x0000000000000000       0xb8 build/src/flash.o
+ .debug_line    0x0000000000000000      0x436 build/src/flash.o
+ .debug_str     0x0000000000000000      0x42d build/src/flash.o
+ .comment       0x0000000000000000       0x4e build/src/flash.o
+ .debug_frame   0x0000000000000000       0x5c build/src/flash.o
+ .ARM.attributes
+                0x0000000000000000       0x34 build/src/flash.o
+ .text          0x0000000000000000        0x0 build/src/tiny_printf.o
+ .data          0x0000000000000000        0x0 build/src/tiny_printf.o
+ .bss           0x0000000000000000        0x0 build/src/tiny_printf.o
+ .text.ts_itoa  0x0000000000000000       0x54 build/src/tiny_printf.o
+ .text.ts_formatstring
+                0x0000000000000000       0xfc build/src/tiny_printf.o
+ .text.ts_formatlength
+                0x0000000000000000       0x9c build/src/tiny_printf.o
+ .text.siprintf
+                0x0000000000000000       0x1c build/src/tiny_printf.o
+ .text.fiprintf
+                0x0000000000000000       0x4c build/src/tiny_printf.o
+ .text.iprintf  0x0000000000000000       0x48 build/src/tiny_printf.o
+ .rodata.fputs.str1.4
+                0x0000000000000000        0x2 build/src/tiny_printf.o
+ .text.fputs    0x0000000000000000       0x3c build/src/tiny_printf.o
+ .text.puts     0x0000000000000000       0x38 build/src/tiny_printf.o
+ .text.fwrite   0x0000000000000000       0x18 build/src/tiny_printf.o
+ .debug_info    0x0000000000000000      0xf94 build/src/tiny_printf.o
+ .debug_abbrev  0x0000000000000000      0x37d build/src/tiny_printf.o
+ .debug_loc     0x0000000000000000      0x9ee build/src/tiny_printf.o
+ .debug_aranges
+                0x0000000000000000       0x60 build/src/tiny_printf.o
+ .debug_ranges  0x0000000000000000       0x88 build/src/tiny_printf.o
+ .debug_line    0x0000000000000000      0x5f5 build/src/tiny_printf.o
+ .debug_str     0x0000000000000000      0x645 build/src/tiny_printf.o
+ .comment       0x0000000000000000       0x4e build/src/tiny_printf.o
+ .debug_frame   0x0000000000000000      0x184 build/src/tiny_printf.o
+ .ARM.attributes
+                0x0000000000000000       0x34 build/src/tiny_printf.o
+ .text          0x0000000000000000        0x0 build/src/main.o
+ .data          0x0000000000000000        0x0 build/src/main.o
+ .bss           0x0000000000000000        0x0 build/src/main.o
+ .text.get_filename_ext
+                0x0000000000000000       0x1c build/src/main.o
+ .text.init     0x0000000000000000       0x18 build/src/main.o
+ .text.read_directory
+                0x0000000000000000       0x58 build/src/main.o
+ .data.UnoCart_rom_len
+                0x0000000000000000        0x4 build/src/main.o
+ .data.os_rom_len
+                0x0000000000000000        0x4 build/src/main.o
+ .text          0x0000000000000000      0x254 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .debug_frame   0x0000000000000000       0x30 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_muldf3.o)
+ .text          0x0000000000000000      0x378 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x0000000000000000       0xac /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_addsubdf3.o)
+ .text          0x0000000000000000       0x40 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_frame   0x0000000000000000       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000000000000000       0x1e /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a(_arm_fixunsdfsi.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-malloc.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mlock.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mlock.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-sbrkr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-stpcpy.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-stpcpy.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-stpcpy.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasecmp.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasecmp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasecmp.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasestr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasestr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasestr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcpy.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcpy.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strlen.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strlen.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncasecmp.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncasecmp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncasecmp.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncmp.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncmp.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncmp.o)
+ .text.strncmp  0x0000000000000000       0x80 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncmp.o)
+ .debug_frame   0x0000000000000000       0x38 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncmp.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncmp.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncpy.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncpy.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncpy.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strrchr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strrchr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strrchr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000000000000000       0xcc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-ctype_.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-ctype_.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-ctype_.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-freer.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-freer.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-freer.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___arc4random_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___at_quick_exit_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___dd_hash_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___env_recursive_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___sfp_recursive_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___sinit_recursive_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .bss.__lock___tz_mutex
+                0x0000000000000000        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memchr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memchr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-reent.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-reent.o)
+ .text.cleanup_glue
+                0x0000000000000000       0x48 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-reent.o)
+ .text._reclaim_reent
+                0x0000000000000000       0x90 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-reent.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strchr.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strchr.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strchr.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .stab          0x0000000000000000       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .text._write   0x0000000000000000       0x10 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .debug_frame   0x0000000000000000       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text._exit    0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .debug_frame   0x0000000000000000       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(_exit.o)
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .rodata        0x0000000000000000       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x32 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+ .text          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .data          0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+ .bss           0x0000000000000000        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x0000000008000000 0x0000000000100000 xr
+RAM              0x0000000020000000 0x0000000000020000 xrw
+MEMORY_B1        0x0000000060000000 0x0000000000000000 xr
+CCMRAM           0x0000000010000000 0x0000000000010000 rw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/crt0.o
+LOAD build/src/startup_stm32f40xx.o
+LOAD build/src/system_stm32f4xx.o
+LOAD build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+LOAD build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+LOAD build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+LOAD build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+LOAD build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_flash.o
+LOAD build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+LOAD build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+LOAD build/Libraries/tm_stm32f4_fatfs/tm_stm32f4_fatfs.o
+LOAD build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+LOAD build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+LOAD build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+LOAD build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+LOAD build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+LOAD build/src/cartridge_ace.o
+LOAD build/src/flash.o
+LOAD build/src/tiny_printf.o
+LOAD build/src/main.o
+START GROUP
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+END GROUP
+START GROUP
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a
+END GROUP
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtend.o
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000020020000                _estack = 0x20020000
+                0x0000000000000000                _Min_Heap_Size = 0x0
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x188
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x188 build/src/startup_stm32f40xx.o
+                0x0000000008000000                g_pfnVectors
+                0x0000000008000188                . = ALIGN (0x4)
+
+.text           0x00000000080001c0     0x6bcc
+                0x00000000080001c0                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000080001c0       0x40 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .text          0x0000000008000200      0x134 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+                0x0000000008000200                memcpy
+ *fill*         0x0000000008000334        0xc 
+ .text          0x0000000008000340       0xdc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strlen.o)
+                0x0000000008000340                strlen
+ *fill*         0x000000000800041c        0x4 
+ .text          0x0000000008000420       0xa0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memchr.o)
+                0x0000000008000420                memchr
+ *(.text*)
+ .text.Reset_Handler
+                0x00000000080004c0       0x50 build/src/startup_stm32f40xx.o
+                0x00000000080004c0                Reset_Handler
+ .text.Default_Handler
+                0x0000000008000510        0x2 build/src/startup_stm32f40xx.o
+                0x0000000008000510                RTC_Alarm_IRQHandler
+                0x0000000008000510                HASH_RNG_IRQHandler
+                0x0000000008000510                EXTI2_IRQHandler
+                0x0000000008000510                TIM8_CC_IRQHandler
+                0x0000000008000510                DebugMon_Handler
+                0x0000000008000510                TIM1_CC_IRQHandler
+                0x0000000008000510                DMA2_Stream5_IRQHandler
+                0x0000000008000510                HardFault_Handler
+                0x0000000008000510                DMA1_Stream5_IRQHandler
+                0x0000000008000510                PVD_IRQHandler
+                0x0000000008000510                SDIO_IRQHandler
+                0x0000000008000510                TAMP_STAMP_IRQHandler
+                0x0000000008000510                PendSV_Handler
+                0x0000000008000510                NMI_Handler
+                0x0000000008000510                CAN2_RX1_IRQHandler
+                0x0000000008000510                EXTI3_IRQHandler
+                0x0000000008000510                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0000000008000510                TIM1_UP_TIM10_IRQHandler
+                0x0000000008000510                TIM8_UP_TIM13_IRQHandler
+                0x0000000008000510                I2C3_ER_IRQHandler
+                0x0000000008000510                EXTI0_IRQHandler
+                0x0000000008000510                I2C2_EV_IRQHandler
+                0x0000000008000510                DMA1_Stream2_IRQHandler
+                0x0000000008000510                CAN1_RX0_IRQHandler
+                0x0000000008000510                FPU_IRQHandler
+                0x0000000008000510                OTG_HS_WKUP_IRQHandler
+                0x0000000008000510                UsageFault_Handler
+                0x0000000008000510                CAN2_SCE_IRQHandler
+                0x0000000008000510                DMA2_Stream2_IRQHandler
+                0x0000000008000510                SPI1_IRQHandler
+                0x0000000008000510                TIM6_DAC_IRQHandler
+                0x0000000008000510                TIM1_BRK_TIM9_IRQHandler
+                0x0000000008000510                DCMI_IRQHandler
+                0x0000000008000510                CAN2_RX0_IRQHandler
+                0x0000000008000510                DMA2_Stream3_IRQHandler
+                0x0000000008000510                USART6_IRQHandler
+                0x0000000008000510                USART3_IRQHandler
+                0x0000000008000510                CRYP_IRQHandler
+                0x0000000008000510                CAN1_RX1_IRQHandler
+                0x0000000008000510                UART5_IRQHandler
+                0x0000000008000510                DMA2_Stream0_IRQHandler
+                0x0000000008000510                TIM4_IRQHandler
+                0x0000000008000510                I2C1_EV_IRQHandler
+                0x0000000008000510                DMA1_Stream6_IRQHandler
+                0x0000000008000510                DMA1_Stream1_IRQHandler
+                0x0000000008000510                UART4_IRQHandler
+                0x0000000008000510                TIM3_IRQHandler
+                0x0000000008000510                RCC_IRQHandler
+                0x0000000008000510                TIM8_BRK_TIM12_IRQHandler
+                0x0000000008000510                Default_Handler
+                0x0000000008000510                EXTI15_10_IRQHandler
+                0x0000000008000510                ADC_IRQHandler
+                0x0000000008000510                DMA1_Stream7_IRQHandler
+                0x0000000008000510                TIM7_IRQHandler
+                0x0000000008000510                CAN2_TX_IRQHandler
+                0x0000000008000510                TIM5_IRQHandler
+                0x0000000008000510                DMA2_Stream7_IRQHandler
+                0x0000000008000510                I2C3_EV_IRQHandler
+                0x0000000008000510                EXTI9_5_IRQHandler
+                0x0000000008000510                RTC_WKUP_IRQHandler
+                0x0000000008000510                ETH_WKUP_IRQHandler
+                0x0000000008000510                SPI2_IRQHandler
+                0x0000000008000510                OTG_HS_EP1_IN_IRQHandler
+                0x0000000008000510                MemManage_Handler
+                0x0000000008000510                DMA1_Stream0_IRQHandler
+                0x0000000008000510                CAN1_TX_IRQHandler
+                0x0000000008000510                SVC_Handler
+                0x0000000008000510                EXTI4_IRQHandler
+                0x0000000008000510                FSMC_IRQHandler
+                0x0000000008000510                ETH_IRQHandler
+                0x0000000008000510                OTG_HS_EP1_OUT_IRQHandler
+                0x0000000008000510                WWDG_IRQHandler
+                0x0000000008000510                TIM2_IRQHandler
+                0x0000000008000510                OTG_FS_WKUP_IRQHandler
+                0x0000000008000510                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0000000008000510                OTG_HS_IRQHandler
+                0x0000000008000510                EXTI1_IRQHandler
+                0x0000000008000510                USART2_IRQHandler
+                0x0000000008000510                I2C2_ER_IRQHandler
+                0x0000000008000510                DMA2_Stream1_IRQHandler
+                0x0000000008000510                CAN1_SCE_IRQHandler
+                0x0000000008000510                FLASH_IRQHandler
+                0x0000000008000510                DMA2_Stream4_IRQHandler
+                0x0000000008000510                BusFault_Handler
+                0x0000000008000510                USART1_IRQHandler
+                0x0000000008000510                OTG_FS_IRQHandler
+                0x0000000008000510                SPI3_IRQHandler
+                0x0000000008000510                DMA1_Stream4_IRQHandler
+                0x0000000008000510                I2C1_ER_IRQHandler
+                0x0000000008000510                DMA2_Stream6_IRQHandler
+                0x0000000008000510                DMA1_Stream3_IRQHandler
+ *fill*         0x0000000008000512        0x2 
+ .text.SystemInit
+                0x0000000008000514       0xb8 build/src/system_stm32f4xx.o
+                0x0000000008000514                SystemInit
+ .text.SysTick_Handler
+                0x00000000080005cc       0x64 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+                0x00000000080005cc                SysTick_Handler
+ .text.TM_DELAY_Init
+                0x0000000008000630       0x58 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+                0x0000000008000630                TM_DELAY_Init
+ .text.RCC_AHB1PeriphClockCmd
+                0x0000000008000688       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+                0x0000000008000688                RCC_AHB1PeriphClockCmd
+ .text.GPIO_Init
+                0x00000000080006a0       0x94 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+                0x00000000080006a0                GPIO_Init
+ .text.SPI_Init
+                0x0000000008000734       0x54 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+                0x0000000008000734                SPI_Init
+ .text.SPI_StructInit
+                0x0000000008000788       0x18 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+                0x0000000008000788                SPI_StructInit
+ .text.TM_SPI_WriteMulti
+                0x00000000080007a0       0x34 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+                0x00000000080007a0                TM_SPI_WriteMulti
+ .text.TM_SPI_ReadMulti
+                0x00000000080007d4       0x44 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+                0x00000000080007d4                TM_SPI_ReadMulti
+ .text.TM_SPI_InitCustomPinsCallback
+                0x0000000008000818        0x4 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+                0x0000000008000818                TM_SPI_InitCustomPinsCallback
+ .text.TM_SPI1_INT_InitPins
+                0x000000000800081c       0x5c build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+                0x000000000800081c                TM_SPI1_INT_InitPins
+ .text.TM_SPI2_INT_InitPins
+                0x0000000008000878       0x8c build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+                0x0000000008000878                TM_SPI2_INT_InitPins
+ .text.TM_SPI3_INT_InitPins
+                0x0000000008000904       0x60 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+                0x0000000008000904                TM_SPI3_INT_InitPins
+ .text.TM_SPI4_INT_InitPins
+                0x0000000008000964       0x5c build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+                0x0000000008000964                TM_SPI4_INT_InitPins
+ .text.TM_SPI5_INT_InitPins
+                0x00000000080009c0       0x6c build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+                0x00000000080009c0                TM_SPI5_INT_InitPins
+ .text.TM_SPIx_Init
+                0x0000000008000a2c      0x1a0 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .text.TM_SPI_Init
+                0x0000000008000bcc       0xa8 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+                0x0000000008000bcc                TM_SPI_Init
+ .text.TM_GPIO_INT_Init
+                0x0000000008000c74       0xbc build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+                0x0000000008000c74                TM_GPIO_INT_Init
+ .text.TM_GPIO_Init
+                0x0000000008000d30       0x3c build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+                0x0000000008000d30                TM_GPIO_Init
+ .text.TM_GPIO_InitAlternate
+                0x0000000008000d6c       0x80 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+                0x0000000008000d6c                TM_GPIO_InitAlternate
+ .text.TM_FATFS_SPI_FLASH_disk_write
+                0x0000000008000dec        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000dec                TM_FATFS_SPI_FLASH_disk_write
+ .text.TM_FATFS_USB_disk_read
+                0x0000000008000df0        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000df0                TM_FATFS_USB_disk_read
+ .text.TM_FATFS_SDRAM_disk_read
+                0x0000000008000df4        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000df4                TM_FATFS_SDRAM_disk_read
+ .text.TM_FATFS_SPI_FLASH_disk_read
+                0x0000000008000df8        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000df8                TM_FATFS_SPI_FLASH_disk_read
+ .text.TM_FATFS_USB_disk_write
+                0x0000000008000dfc        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000dfc                TM_FATFS_USB_disk_write
+ .text.TM_FATFS_SDRAM_disk_write
+                0x0000000008000e00        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e00                TM_FATFS_SDRAM_disk_write
+ .text.TM_FATFS_USB_disk_ioctl
+                0x0000000008000e04        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e04                TM_FATFS_USB_disk_ioctl
+ .text.TM_FATFS_SDRAM_disk_ioctl
+                0x0000000008000e08        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e08                TM_FATFS_SDRAM_disk_ioctl
+ .text.TM_FATFS_SPI_FLASH_disk_ioctl
+                0x0000000008000e0c        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e0c                TM_FATFS_SPI_FLASH_disk_ioctl
+ .text.TM_FATFS_USB_disk_initialize
+                0x0000000008000e10        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e10                TM_FATFS_USB_disk_initialize
+ .text.TM_FATFS_SDRAM_disk_initialize
+                0x0000000008000e14        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e14                TM_FATFS_SDRAM_disk_initialize
+ .text.TM_FATFS_SPI_FLASH_disk_initialize
+                0x0000000008000e18        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e18                TM_FATFS_SPI_FLASH_disk_initialize
+ .text.TM_FATFS_USB_disk_status
+                0x0000000008000e1c        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e1c                TM_FATFS_USB_disk_status
+ .text.TM_FATFS_SDRAM_disk_status
+                0x0000000008000e20        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e20                TM_FATFS_SDRAM_disk_status
+ .text.TM_FATFS_SPI_FLASH_disk_status
+                0x0000000008000e24        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e24                TM_FATFS_SPI_FLASH_disk_status
+ .text.disk_initialize
+                0x0000000008000e28       0x18 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e28                disk_initialize
+ .text.disk_status
+                0x0000000008000e40       0x18 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e40                disk_status
+ .text.disk_read
+                0x0000000008000e58       0x30 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e58                disk_read
+ .text.disk_write
+                0x0000000008000e88       0x30 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000e88                disk_write
+ .text.disk_ioctl
+                0x0000000008000eb8       0x1c build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000eb8                disk_ioctl
+ .text.get_fattime
+                0x0000000008000ed4        0x8 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000008000ed4                get_fattime
+ .text.ff_convert
+                0x0000000008000edc       0x48 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+                0x0000000008000edc                ff_convert
+ .text.ff_wtoupper
+                0x0000000008000f24       0x28 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+                0x0000000008000f24                ff_wtoupper
+ .text.wait_ready
+                0x0000000008000f4c       0x5c build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .text.rcvr_datablock
+                0x0000000008000fa8       0xb0 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .text.xmit_datablock
+                0x0000000008001058       0xdc build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .text.send_cmd
+                0x0000000008001134      0x248 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .text.TM_FATFS_SD_disk_initialize
+                0x000000000800137c      0x288 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+                0x000000000800137c                TM_FATFS_SD_disk_initialize
+ .text.TM_FATFS_SD_disk_status
+                0x0000000008001604       0x14 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+                0x0000000008001604                TM_FATFS_SD_disk_status
+ .text.TM_FATFS_SD_disk_read
+                0x0000000008001618       0xb8 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+                0x0000000008001618                TM_FATFS_SD_disk_read
+ .text.TM_FATFS_SD_disk_write
+                0x00000000080016d0       0xf8 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+                0x00000000080016d0                TM_FATFS_SD_disk_write
+ .text.TM_FATFS_SD_disk_ioctl
+                0x00000000080017c8      0x2d0 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+                0x00000000080017c8                TM_FATFS_SD_disk_ioctl
+ .text.ff_memalloc
+                0x0000000008001a98        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+                0x0000000008001a98                ff_memalloc
+ .text.ff_memfree
+                0x0000000008001a9c        0x4 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+                0x0000000008001a9c                ff_memfree
+ .text.get_ldnumber
+                0x0000000008001aa0       0xac build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.validate
+                0x0000000008001b4c       0x2c build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.get_fileinfo
+                0x0000000008001b78       0xe4 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.sync_window.part.0
+                0x0000000008001c5c       0x54 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.sync_fs  0x0000000008001cb0       0x80 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.check_fs
+                0x0000000008001d30       0x64 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.put_fat.part.0
+                0x0000000008001d94      0x1b0 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.get_fat.part.0
+                0x0000000008001f44      0x160 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.remove_chain.part.0
+                0x00000000080020a4       0x64 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.dir_sdi  0x0000000008002108       0xa4 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.create_chain
+                0x00000000080021ac       0xd4 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_write.part.0
+                0x0000000008002280      0x1b0 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_read.part.0
+                0x0000000008002430      0x188 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.dir_next
+                0x00000000080025b8      0x128 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.dir_find.part.0
+                0x00000000080026e0      0x19c build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.follow_path
+                0x000000000800287c      0x2d4 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.dir_alloc
+                0x0000000008002b50       0x84 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.dir_register
+                0x0000000008002bd4      0x330 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.dir_read
+                0x0000000008002f04      0x158 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.find_volume
+                0x000000000800305c      0x27c build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .text.f_mount  0x00000000080032d8       0x58 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                0x00000000080032d8                f_mount
+ .text.f_open   0x0000000008003330      0x218 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                0x0000000008003330                f_open
+ .text.f_read   0x0000000008003548       0x58 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                0x0000000008003548                f_read
+ .text.f_write  0x00000000080035a0       0x58 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                0x00000000080035a0                f_write
+ .text.f_sync   0x00000000080035f8       0xf4 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                0x00000000080035f8                f_sync
+ .text.f_close  0x00000000080036ec       0x1c build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                0x00000000080036ec                f_close
+ .text.f_lseek  0x0000000008003708      0x170 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                0x0000000008003708                f_lseek
+ .text.f_opendir
+                0x0000000008003878       0x9c build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                0x0000000008003878                f_opendir
+ .text.f_closedir
+                0x0000000008003914       0x34 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                0x0000000008003914                f_closedir
+ .text.f_readdir
+                0x0000000008003948       0x70 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                0x0000000008003948                f_readdir
+ .text.entry_compare
+                0x00000000080039b8       0x20 build/src/main.o
+                0x00000000080039b8                entry_compare
+ .text.is_valid_file
+                0x00000000080039d8       0x6c build/src/main.o
+                0x00000000080039d8                is_valid_file
+ .text.read_directory.part.0
+                0x0000000008003a44       0xe0 build/src/main.o
+ .text.scan_files
+                0x0000000008003b24      0x128 build/src/main.o
+                0x0000000008003b24                scan_files
+ .text.search_directory
+                0x0000000008003c4c       0x94 build/src/main.o
+                0x0000000008003c4c                search_directory
+ .text.mount_atr
+                0x0000000008003ce0       0x94 build/src/main.o
+                0x0000000008003ce0                mount_atr
+ .text.read_atr_sector
+                0x0000000008003d74       0x80 build/src/main.o
+                0x0000000008003d74                read_atr_sector
+ .text.write_atr_sector
+                0x0000000008003df4       0x70 build/src/main.o
+                0x0000000008003df4                write_atr_sector
+ .text.load_file
+                0x0000000008003e64      0x3b4 build/src/main.o
+                0x0000000008003e64                load_file
+ .text.config_gpio_leds_RD45
+                0x0000000008004218       0x28 build/src/main.o
+                0x0000000008004218                config_gpio_leds_RD45
+ .text.config_gpio_sig
+                0x0000000008004240       0x2c build/src/main.o
+                0x0000000008004240                config_gpio_sig
+ .text.config_gpio_data
+                0x000000000800426c       0x2c build/src/main.o
+                0x000000000800426c                config_gpio_data
+ .text.config_gpio_addr
+                0x0000000008004298       0x2c build/src/main.o
+                0x0000000008004298                config_gpio_addr
+ .text.emulate_boot_rom
+                0x00000000080042c4       0xbc build/src/main.o
+                0x00000000080042c4                emulate_boot_rom
+ .text.emulate_standard_8k
+                0x0000000008004380       0x50 build/src/main.o
+                0x0000000008004380                emulate_standard_8k
+ .text.emulate_standard_16k
+                0x00000000080043d0       0x78 build/src/main.o
+                0x00000000080043d0                emulate_standard_16k
+ .text.emulate_XEGS_32k
+                0x0000000008004448       0xd4 build/src/main.o
+                0x0000000008004448                emulate_XEGS_32k
+ .text.emulate_XEGS_64k
+                0x000000000800451c       0xd8 build/src/main.o
+                0x000000000800451c                emulate_XEGS_64k
+ .text.emulate_XEGS_128k
+                0x00000000080045f4       0xe4 build/src/main.o
+                0x00000000080045f4                emulate_XEGS_128k
+ .text.emulate_bounty_bob
+                0x00000000080046d8      0x108 build/src/main.o
+                0x00000000080046d8                emulate_bounty_bob
+ .text.emulate_atarimax_128k
+                0x00000000080047e0       0xb0 build/src/main.o
+                0x00000000080047e0                emulate_atarimax_128k
+ .text.emulate_williams
+                0x0000000008004890       0x84 build/src/main.o
+                0x0000000008004890                emulate_williams
+ .text.emulate_OSS_B
+                0x0000000008004914       0xcc build/src/main.o
+                0x0000000008004914                emulate_OSS_B
+ .text.emulate_OSS_A
+                0x00000000080049e0       0xd4 build/src/main.o
+                0x00000000080049e0                emulate_OSS_A
+ .text.emulate_megacart
+                0x0000000008004ab4       0xf4 build/src/main.o
+                0x0000000008004ab4                emulate_megacart
+ .text.emulate_SIC
+                0x0000000008004ba8      0x108 build/src/main.o
+                0x0000000008004ba8                emulate_SIC
+ .text.emulate_SDX
+                0x0000000008004cb0       0xc4 build/src/main.o
+                0x0000000008004cb0                emulate_SDX
+ .text.emulate_diamond_express
+                0x0000000008004d74       0x98 build/src/main.o
+                0x0000000008004d74                emulate_diamond_express
+ .text.emulate_blizzard
+                0x0000000008004e0c       0x8c build/src/main.o
+                0x0000000008004e0c                emulate_blizzard
+ .text.feed_XEX_loader
+                0x0000000008004e98       0xc8 build/src/main.o
+                0x0000000008004e98                feed_XEX_loader
+ .text.emulate_cartridge
+                0x0000000008004f60      0x104 build/src/main.o
+                0x0000000008004f60                emulate_cartridge
+ .text.startup.main
+                0x0000000008005064      0x308 build/src/main.o
+                0x0000000008005064                main
+ .text.__libc_init_array
+                0x000000000800536c       0x48 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+                0x000000000800536c                __libc_init_array
+ .text.malloc   0x00000000080053b4       0x10 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-malloc.o)
+                0x00000000080053b4                malloc
+ .text.free     0x00000000080053c4       0x10 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-malloc.o)
+                0x00000000080053c4                free
+ .text._malloc_r
+                0x00000000080053d4      0x560 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+                0x00000000080053d4                _malloc_r
+ .text.memset   0x0000000008005934       0xa4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+                0x0000000008005934                memset
+ .text.__malloc_lock
+                0x00000000080059d8        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mlock.o)
+                0x00000000080059d8                __malloc_lock
+ .text.__malloc_unlock
+                0x00000000080059e4        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mlock.o)
+                0x00000000080059e4                __malloc_unlock
+ .text.qsort    0x00000000080059f0      0x63c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+                0x00000000080059f0                qsort
+ .text._sbrk_r  0x000000000800602c       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-sbrkr.o)
+                0x000000000800602c                _sbrk_r
+ .text.stpcpy   0x0000000008006050       0x48 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-stpcpy.o)
+                0x0000000008006050                stpcpy
+ .text.strcasecmp
+                0x0000000008006098       0x4c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasecmp.o)
+                0x0000000008006098                strcasecmp
+ .text.critical_factorization
+                0x00000000080060e4      0x11c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasestr.o)
+ .text.two_way_long_needle
+                0x0000000008006200      0x2a8 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasestr.o)
+ .text.strcasestr
+                0x00000000080064a8      0x2bc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasestr.o)
+                0x00000000080064a8                strcasestr
+ .text.strcpy   0x0000000008006764       0xbc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcpy.o)
+                0x0000000008006764                strcpy
+ .text.strncasecmp
+                0x0000000008006820       0x58 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncasecmp.o)
+                0x0000000008006820                strncasecmp
+ .text.strncpy  0x0000000008006878       0x64 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncpy.o)
+                0x0000000008006878                strncpy
+ .text.strrchr  0x00000000080068dc       0x24 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strrchr.o)
+                0x00000000080068dc                strrchr
+ .text.startup.register_fini
+                0x0000000008006900       0x14 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x0000000008006914        0xc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+                0x0000000008006914                atexit
+ .text.__libc_fini_array
+                0x0000000008006920       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+                0x0000000008006920                __libc_fini_array
+ .text._malloc_trim_r
+                0x000000000800694c       0xa0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-freer.o)
+                0x000000000800694c                _malloc_trim_r
+ .text._free_r  0x00000000080069ec      0x20c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-freer.o)
+                0x00000000080069ec                _free_r
+ .text.__retarget_lock_acquire_recursive
+                0x0000000008006bf8        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+                0x0000000008006bf8                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x0000000008006bfc        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+                0x0000000008006bfc                __retarget_lock_release_recursive
+ .text.strchr   0x0000000008006c00       0xcc /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strchr.o)
+                0x0000000008006c00                strchr
+ .text.__register_exitproc
+                0x0000000008006ccc       0x8c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+                0x0000000008006ccc                __register_exitproc
+ .text._sbrk    0x0000000008006d58       0x1c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+                0x0000000008006d58                _sbrk
+ *(.glue_7)
+ .glue_7        0x0000000008006d74        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008006d74        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008006d74        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.init)
+ .init          0x0000000008006d74        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008006d74                _init
+ .init          0x0000000008006d78        0x8 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+ *(.fini)
+ .fini          0x0000000008006d80        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+                0x0000000008006d80                _fini
+ .fini          0x0000000008006d84        0x8 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+                0x0000000008006d8c                . = ALIGN (0x4)
+                0x0000000008006d8c                _etext = .
+
+.vfp11_veneer   0x0000000008006d8c        0x0
+ .vfp11_veneer  0x0000000008006d8c        0x0 linker stubs
+
+.v4_bx          0x0000000008006d8c        0x0
+ .v4_bx         0x0000000008006d8c        0x0 linker stubs
+
+.iplt           0x0000000008006d8c        0x0
+ .iplt          0x0000000008006d8c        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.rodata         0x0000000008006d8c     0x47ec
+                0x0000000008006d8c                . = ALIGN (0x4)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.Tbl    0x0000000008006d8c      0x100 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .rodata.tbl_lower.1
+                0x0000000008006e8c      0x1e0 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .rodata.tbl_upper.0
+                0x000000000800706c      0x1e0 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .rodata.get_ldnumber.str1.4
+                0x000000000800724c        0x3 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ *fill*         0x000000000800724f        0x1 
+ .rodata.follow_path.str1.4
+                0x0000000008007250       0x13 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ *fill*         0x0000000008007263        0x1 
+ .rodata.str1.4
+                0x0000000008007264       0x3e build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ *fill*         0x00000000080072a2        0x2 
+ .rodata.ExCvt  0x00000000080072a4       0x80 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .rodata.LfnOfs
+                0x0000000008007324        0xd build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ *fill*         0x0000000008007331        0x3 
+ .rodata.str.2  0x0000000008007334       0x24 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .rodata.get_filename_ext.str1.4
+                0x0000000008007358       0x3e build/src/main.o
+                                          0x1 (size before relaxing)
+ .rodata.is_valid_file.str1.4
+                0x0000000008007358       0x14 build/src/main.o
+ .rodata.read_directory.part.0.str1.4
+                0x000000000800736c       0x15 build/src/main.o
+ *fill*         0x0000000008007381        0x3 
+ .rodata.search_directory.str1.4
+                0x0000000008007384       0x1a build/src/main.o
+ *fill*         0x000000000800739e        0x2 
+ .rodata.read_directory.str1.4
+                0x00000000080073a0       0x13 build/src/main.o
+ *fill*         0x00000000080073b3        0x1 
+ .rodata.load_file.str1.4
+                0x00000000080073b4       0xae build/src/main.o
+ *fill*         0x0000000008007462        0x2 
+ .rodata.main.str1.4
+                0x0000000008007464        0xb build/src/main.o
+ *fill*         0x000000000800746f        0x1 
+ .rodata.os_rom
+                0x0000000008007470     0x4000 build/src/main.o
+                0x0000000008007470                os_rom
+ .rodata._global_impure_ptr
+                0x000000000800b470        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+                0x000000000800b470                _global_impure_ptr
+ .rodata._ctype_
+                0x000000000800b474      0x101 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-ctype_.o)
+                0x000000000800b474                _ctype_
+                0x000000000800b578                . = ALIGN (0x4)
+ *fill*         0x000000000800b575        0x3 
+
+.rel.dyn        0x000000000800b578        0x0
+ .rel.iplt      0x000000000800b578        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x000000000800b578        0x0
+                0x000000000800b578                __exidx_start = .
+ *(.ARM.exidx*)
+                0x000000000800b578                __exidx_end = .
+
+.preinit_array  0x000000000800b578        0x0
+                0x000000000800b578                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x000000000800b578                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000000000800b578        0x8
+                0x000000000800b578                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ .init_array.00000
+                0x000000000800b578        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x000000000800b57c        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x000000000800b580                PROVIDE (__init_array_end = .)
+
+.fini_array     0x000000000800b580        0x4
+                0x000000000800b580                PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x000000000800b580        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+                0x000000000800b584                PROVIDE (__fini_array_end = .)
+                0x000000000800b584                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000     0x28fc load address 0x000000000800b584
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.SystemCoreClock
+                0x0000000020000000        0x4 build/src/system_stm32f4xx.o
+                0x0000000020000000                SystemCoreClock
+ .data.FATFS_LowLevelDrivers
+                0x0000000020000004       0xb4 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                0x0000000020000004                FATFS_LowLevelDrivers
+ .data.TM_FATFS_SD_Stat
+                0x00000000200000b8        0x1 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ *fill*         0x00000000200000b9        0x3 
+ .data.UnoCart_rom
+                0x00000000200000bc     0x2000 build/src/main.o
+                0x00000000200000bc                UnoCart_rom
+ .data._impure_ptr
+                0x00000000200020bc        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+                0x00000000200020bc                _impure_ptr
+ .data.impure_data
+                0x00000000200020c0      0x428 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .data.__malloc_av_
+                0x00000000200024e8      0x408 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+                0x00000000200024e8                __malloc_av_
+ .data.__malloc_sbrk_base
+                0x00000000200028f0        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+                0x00000000200028f0                __malloc_sbrk_base
+ .data.__malloc_trim_threshold
+                0x00000000200028f4        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+                0x00000000200028f4                __malloc_trim_threshold
+ .data.__atexit_recursive_mutex
+                0x00000000200028f8        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+                0x00000000200028f8                __atexit_recursive_mutex
+                0x00000000200028fc                . = ALIGN (0x4)
+                0x00000000200028fc                _edata = .
+                0x000000000800de80                _siccmram = LOADADDR (.ccmram)
+
+.igot.plt       0x00000000200028fc        0x0 load address 0x000000000800de80
+ .igot.plt      0x00000000200028fc        0x0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+
+.ccmram         0x0000000010000000    0x10000 load address 0x000000000800de80
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _sccmram = .
+ *(.ccmram)
+ .ccmram        0x0000000010000000    0x10000 build/src/main.o
+                0x0000000010000000                cart_ram2
+ *(.ccmram*)
+                0x0000000010010000                . = ALIGN (0x4)
+                0x0000000010010000                _eccmram = .
+                0x0000000010010000                . = ALIGN (0x4)
+
+.bss            0x00000000200028fc    0x1088c
+                0x00000000200028fc                _sbss = .
+                0x00000000200028fc                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x00000000200028fc       0x1c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ *(.bss*)
+ .bss.CustomTimers
+                0x0000000020002918       0x18 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .bss.TM_DELAY_Initialized
+                0x0000000020002930        0x1 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+                0x0000000020002930                TM_DELAY_Initialized
+ *fill*         0x0000000020002931        0x3 
+ .bss.TM_Time   0x0000000020002934        0x4 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+                0x0000000020002934                TM_Time
+ .bss.TM_Time2  0x0000000020002938        0x4 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+                0x0000000020002938                TM_Time2
+ .bss.mult      0x000000002000293c        0x4 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+                0x000000002000293c                mult
+ .bss.GPIO_UsedPins
+                0x0000000020002940       0x16 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .bss.TM_FATFS_SD_CardType
+                0x0000000020002956        0x1 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ *fill*         0x0000000020002957        0x1 
+ .bss.FatFs     0x0000000020002958       0x24 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .bss.Fsid      0x000000002000297c        0x2 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ *fill*         0x000000002000297e        0x2 
+ .bss.FatFs     0x0000000020002980      0x230 build/src/main.o
+                0x0000000020002980                FatFs
+ .bss.GPIO_InitStructure
+                0x0000000020002bb0        0x8 build/src/main.o
+                0x0000000020002bb0                GPIO_InitStructure
+ .bss.cart_d5xx
+                0x0000000020002bb8      0x100 build/src/main.o
+                0x0000000020002bb8                cart_d5xx
+ .bss.cart_ram1
+                0x0000000020002cb8    0x10000 build/src/main.o
+                0x0000000020002cb8                cart_ram1
+ .bss.doneFatFsInit
+                0x0000000020012cb8        0x4 build/src/main.o
+                0x0000000020012cb8                doneFatFsInit
+ .bss.errorBuf  0x0000000020012cbc       0x28 build/src/main.o
+                0x0000000020012cbc                errorBuf
+ .bss.fno       0x0000000020012ce4       0x20 build/src/main.o
+                0x0000000020012ce4                fno
+ .bss.lfn       0x0000000020012d04      0x100 build/src/main.o
+                0x0000000020012d04                lfn
+ .bss.mountedATRs
+                0x0000000020012e04      0x33c build/src/main.o
+                0x0000000020012e04                mountedATRs
+ .bss.num_dir_entries
+                0x0000000020013140        0x4 build/src/main.o
+                0x0000000020013140                num_dir_entries
+ .bss.__malloc_current_mallinfo
+                0x0000000020013144       0x28 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000020013144                __malloc_current_mallinfo
+ .bss.__malloc_max_sbrked_mem
+                0x000000002001316c        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+                0x000000002001316c                __malloc_max_sbrked_mem
+ .bss.__malloc_max_total_mem
+                0x0000000020013170        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000020013170                __malloc_max_total_mem
+ .bss.__malloc_top_pad
+                0x0000000020013174        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+                0x0000000020013174                __malloc_top_pad
+ .bss.__lock___atexit_recursive_mutex
+                0x0000000020013178        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+                0x0000000020013178                __lock___atexit_recursive_mutex
+ *fill*         0x0000000020013179        0x3 
+ .bss.__lock___malloc_recursive_mutex
+                0x000000002001317c        0x1 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+                0x000000002001317c                __lock___malloc_recursive_mutex
+ *fill*         0x000000002001317d        0x3 
+ .bss.errno     0x0000000020013180        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-reent.o)
+                0x0000000020013180                errno
+ .bss.heap_end.0
+                0x0000000020013184        0x4 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ *(COMMON)
+                0x0000000020013188                . = ALIGN (0x4)
+                0x0000000020013188                _ebss = .
+                0x0000000020013188                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x0000000020013188      0x400
+                0x0000000020013188                . = ALIGN (0x4)
+                0x0000000020013188                PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020013188                . = (. + _Min_Heap_Size)
+                0x0000000020013588                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020013188      0x400 
+                0x0000000020013588                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000000052       0x21 build/src/startup_stm32f40xx.o
+ .ARM.attributes
+                0x0000000000000073       0x34 build/src/system_stm32f4xx.o
+ .ARM.attributes
+                0x00000000000000a7       0x34 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .ARM.attributes
+                0x00000000000000db       0x34 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .ARM.attributes
+                0x000000000000010f       0x34 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .ARM.attributes
+                0x0000000000000143       0x34 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .ARM.attributes
+                0x0000000000000177       0x34 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .ARM.attributes
+                0x00000000000001ab       0x34 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .ARM.attributes
+                0x00000000000001df       0x34 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .ARM.attributes
+                0x0000000000000213       0x34 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .ARM.attributes
+                0x0000000000000247       0x34 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .ARM.attributes
+                0x000000000000027b       0x34 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .ARM.attributes
+                0x00000000000002af       0x34 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .ARM.attributes
+                0x00000000000002e3       0x34 build/src/main.o
+ .ARM.attributes
+                0x0000000000000317       0x32 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000349       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000000000000037d       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000000003b1       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x00000000000003e5       0x1c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000000401       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000000435       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000469       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+ .ARM.attributes
+                0x000000000000049d       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000000004d1       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-stpcpy.o)
+ .ARM.attributes
+                0x0000000000000505       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasecmp.o)
+ .ARM.attributes
+                0x0000000000000539       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasestr.o)
+ .ARM.attributes
+                0x000000000000056d       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcpy.o)
+ .ARM.attributes
+                0x00000000000005a1       0x1c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x00000000000005bd       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncasecmp.o)
+ .ARM.attributes
+                0x00000000000005f1       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x0000000000000625       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strrchr.o)
+ .ARM.attributes
+                0x0000000000000659       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x000000000000068d       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000000006c1       0x32 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x00000000000006f3       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000727       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x000000000000075b       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x000000000000078f       0x1c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x00000000000007ab       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x00000000000007df       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x0000000000000813       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000847       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+ .ARM.attributes
+                0x000000000000087b       0x1e /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/crtn.o
+OUTPUT(build/firmware.elf elf32-littlearm)
+LOAD linker stubs
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libm.a
+LOAD /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/thumb/v7e-m+fp/hard/libgcc.a
+
+.debug_line     0x0000000000000000     0xd5cc
+ .debug_line    0x0000000000000000       0x77 build/src/startup_stm32f40xx.o
+ .debug_line    0x0000000000000077      0x2e7 build/src/system_stm32f4xx.o
+ .debug_line    0x000000000000035e      0x5f3 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .debug_line    0x0000000000000951      0xbb0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_line    0x0000000000001501      0x585 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_line    0x0000000000001a86      0x87b build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .debug_line    0x0000000000002301      0xbbc build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .debug_line    0x0000000000002ebd      0x727 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .debug_line    0x00000000000035e4      0x2b8 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .debug_line    0x000000000000389c      0x178 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .debug_line    0x0000000000003a14     0x13ec build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .debug_line    0x0000000000004e00      0x101 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .debug_line    0x0000000000004f01     0x5ee8 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .debug_line    0x000000000000ade9     0x27e3 build/src/main.o
+
+.debug_info     0x0000000000000000    0x11359
+ .debug_info    0x0000000000000000       0x22 build/src/startup_stm32f40xx.o
+ .debug_info    0x0000000000000022      0x5cc build/src/system_stm32f4xx.o
+ .debug_info    0x00000000000005ee      0xb23 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .debug_info    0x0000000000001111      0xe94 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_info    0x0000000000001fa5      0x84f build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_info    0x00000000000027f4      0xd72 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .debug_info    0x0000000000003566     0x13c3 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .debug_info    0x0000000000004929      0xab7 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .debug_info    0x00000000000053e0      0x81c build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .debug_info    0x0000000000005bfc      0x177 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .debug_info    0x0000000000005d73     0x1905 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .debug_info    0x0000000000007678      0x11c build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .debug_info    0x0000000000007794     0x7268 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .debug_info    0x000000000000e9fc     0x295d build/src/main.o
+
+.debug_abbrev   0x0000000000000000     0x2165
+ .debug_abbrev  0x0000000000000000       0x12 build/src/startup_stm32f40xx.o
+ .debug_abbrev  0x0000000000000012      0x151 build/src/system_stm32f4xx.o
+ .debug_abbrev  0x0000000000000163      0x384 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .debug_abbrev  0x00000000000004e7      0x2bd build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_abbrev  0x00000000000007a4      0x221 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_abbrev  0x00000000000009c5      0x1e1 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .debug_abbrev  0x0000000000000ba6      0x2c2 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .debug_abbrev  0x0000000000000e68      0x214 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .debug_abbrev  0x000000000000107c      0x278 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .debug_abbrev  0x00000000000012f4       0xd6 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .debug_abbrev  0x00000000000013ca      0x418 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .debug_abbrev  0x00000000000017e2       0xbb build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .debug_abbrev  0x000000000000189d      0x3d2 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .debug_abbrev  0x0000000000001c6f      0x4f6 build/src/main.o
+
+.debug_aranges  0x0000000000000000      0x908
+ .debug_aranges
+                0x0000000000000000       0x28 build/src/startup_stm32f40xx.o
+ .debug_aranges
+                0x0000000000000028       0x28 build/src/system_stm32f4xx.o
+ .debug_aranges
+                0x0000000000000050       0x70 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .debug_aranges
+                0x00000000000000c0      0x180 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_aranges
+                0x0000000000000240       0x88 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_aranges
+                0x00000000000002c8       0xe0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .debug_aranges
+                0x00000000000003a8       0xb0 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .debug_aranges
+                0x0000000000000458       0x98 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .debug_aranges
+                0x00000000000004f0       0x68 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .debug_aranges
+                0x0000000000000558       0x28 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .debug_aranges
+                0x0000000000000580       0x70 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .debug_aranges
+                0x00000000000005f0       0x28 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .debug_aranges
+                0x0000000000000618      0x1c0 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .debug_aranges
+                0x00000000000007d8      0x130 build/src/main.o
+
+.debug_str      0x0000000000000000     0x2cd1
+ .debug_str     0x0000000000000000       0x9c build/src/startup_stm32f40xx.o
+ .debug_str     0x000000000000009c      0x2f7 build/src/system_stm32f4xx.o
+                                        0x3c9 (size before relaxing)
+ .debug_str     0x0000000000000393      0x798 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+                                        0xa51 (size before relaxing)
+ .debug_str     0x0000000000000b2b      0x5c0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+                                        0x8e3 (size before relaxing)
+ .debug_str     0x00000000000010eb      0x284 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+                                        0x524 (size before relaxing)
+ .debug_str     0x000000000000136f      0x3ae build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+                                        0x722 (size before relaxing)
+ .debug_str     0x000000000000171d      0x3a7 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+                                        0x833 (size before relaxing)
+ .debug_str     0x0000000000001ac4      0x1f7 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+                                        0x60d (size before relaxing)
+ .debug_str     0x0000000000001cbb      0x3be build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+                                        0x5d8 (size before relaxing)
+ .debug_str     0x0000000000002079       0x62 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+                                        0x1dd (size before relaxing)
+ .debug_str     0x00000000000020db      0x13a build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+                                        0x684 (size before relaxing)
+ .debug_str     0x0000000000002215       0x56 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+                                        0x21a (size before relaxing)
+ .debug_str     0x000000000000226b      0x5a3 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+                                        0x86f (size before relaxing)
+ .debug_str     0x000000000000280e      0x4c3 build/src/main.o
+                                        0xb7e (size before relaxing)
+
+.debug_ranges   0x0000000000000000     0x1f88
+ .debug_ranges  0x0000000000000000       0x20 build/src/startup_stm32f40xx.o
+ .debug_ranges  0x0000000000000020       0x30 build/src/system_stm32f4xx.o
+ .debug_ranges  0x0000000000000050       0xc0 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .debug_ranges  0x0000000000000110      0x198 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_ranges  0x00000000000002a8       0x78 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_ranges  0x0000000000000320       0xd0 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .debug_ranges  0x00000000000003f0       0xb8 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .debug_ranges  0x00000000000004a8      0x120 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .debug_ranges  0x00000000000005c8       0x58 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .debug_ranges  0x0000000000000620       0x18 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .debug_ranges  0x0000000000000638      0x4e0 build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .debug_ranges  0x0000000000000b18       0x18 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .debug_ranges  0x0000000000000b30     0x1060 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .debug_ranges  0x0000000000001b90      0x3f8 build/src/main.o
+
+.debug_loc      0x0000000000000000    0x11cb7
+ .debug_loc     0x0000000000000000      0x107 build/src/system_stm32f4xx.o
+ .debug_loc     0x0000000000000107      0x23b build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .debug_loc     0x0000000000000342      0xc23 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_loc     0x0000000000000f65      0x36e build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_loc     0x00000000000012d3      0x7bd build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .debug_loc     0x0000000000001a90      0xca3 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .debug_loc     0x0000000000002733      0x76e build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .debug_loc     0x0000000000002ea1      0x38e build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .debug_loc     0x000000000000322f      0x108 build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .debug_loc     0x0000000000003337     0x132f build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .debug_loc     0x0000000000004666       0x4a build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .debug_loc     0x00000000000046b0     0xae79 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .debug_loc     0x000000000000f529     0x278e build/src/main.o
+
+.comment        0x0000000000000000       0x4d
+ .comment       0x0000000000000000       0x4d build/src/system_stm32f4xx.o
+                                         0x4e (size before relaxing)
+ .comment       0x000000000000004d       0x4e build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .comment       0x000000000000004d       0x4e build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .comment       0x000000000000004d       0x4e build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .comment       0x000000000000004d       0x4e build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .comment       0x000000000000004d       0x4e build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .comment       0x000000000000004d       0x4e build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .comment       0x000000000000004d       0x4e build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .comment       0x000000000000004d       0x4e build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .comment       0x000000000000004d       0x4e build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .comment       0x000000000000004d       0x4e build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .comment       0x000000000000004d       0x4e build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .comment       0x000000000000004d       0x4e build/src/main.o
+
+.debug_frame    0x0000000000000000     0x2384
+ .debug_frame   0x0000000000000000       0x30 build/src/system_stm32f4xx.o
+ .debug_frame   0x0000000000000030      0x104 build/Libraries/tm_stm32f4_delay/tm_stm32f4_delay.o
+ .debug_frame   0x0000000000000134      0x310 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_rcc.o
+ .debug_frame   0x0000000000000444      0x158 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_gpio.o
+ .debug_frame   0x000000000000059c      0x1f4 build/Libraries/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_spi.o
+ .debug_frame   0x0000000000000790      0x280 build/Libraries/tm_stm32f4_spi/tm_stm32f4_spi.o
+ .debug_frame   0x0000000000000a10      0x1b8 build/Libraries/tm_stm32f4_gpio/tm_stm32f4_gpio.o
+ .debug_frame   0x0000000000000bc8      0x244 build/Libraries/tm_stm32f4_fatfs/fatfs/diskio.o
+ .debug_frame   0x0000000000000e0c       0x3c build/Libraries/tm_stm32f4_fatfs/fatfs/option/ccsbcs.o
+ .debug_frame   0x0000000000000e48      0x17c build/Libraries/tm_stm32f4_fatfs/fatfs/drivers/fatfs_sd.o
+ .debug_frame   0x0000000000000fc4       0x30 build/Libraries/tm_stm32f4_fatfs/fatfs/option/syscall.o
+ .debug_frame   0x0000000000000ff4      0x8b0 build/Libraries/tm_stm32f4_fatfs/fatfs/ff.o
+ .debug_frame   0x00000000000018a4      0x4e4 build/src/main.o
+ .debug_frame   0x0000000000001d88       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-init.o)
+ .debug_frame   0x0000000000001db4       0x30 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000001de4       0x4c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mallocr.o)
+ .debug_frame   0x0000000000001e30       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-memset.o)
+ .debug_frame   0x0000000000001e5c       0x30 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-mlock.o)
+ .debug_frame   0x0000000000001e8c       0x44 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-qsort.o)
+ .debug_frame   0x0000000000001ed0       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000001efc       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-stpcpy.o)
+ .debug_frame   0x0000000000001f1c       0x28 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasecmp.o)
+ .debug_frame   0x0000000000001f44       0xac /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcasestr.o)
+ .debug_frame   0x0000000000001ff0       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strcpy.o)
+ .debug_frame   0x0000000000002010       0x30 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncasecmp.o)
+ .debug_frame   0x0000000000002040       0x2c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strncpy.o)
+ .debug_frame   0x000000000000206c       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strrchr.o)
+ .debug_frame   0x00000000000020a0       0x68 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000002108       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000002128       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-fini.o)
+ .debug_frame   0x000000000000215c       0x8c /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-freer.o)
+ .debug_frame   0x00000000000021e8       0xb0 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-lock.o)
+ .debug_frame   0x0000000000002298       0x64 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-reent.o)
+ .debug_frame   0x00000000000022fc       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-strchr.o)
+ .debug_frame   0x0000000000002330       0x34 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000002364       0x20 /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(sbrk.o)
+
+.stabstr        0x0000000000000000       0x3f
+ .stabstr       0x0000000000000000       0x3f /opt/gcc-arm-none-eabi-10-2020-q4-major/bin/../lib/gcc/arm-none-eabi/10.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m+fp/hard/libnosys.a(write.o)

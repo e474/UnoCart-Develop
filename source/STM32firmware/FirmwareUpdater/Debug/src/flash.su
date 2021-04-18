@@ -1,0 +1,7 @@
+flash.c:64:17:flash_size_bytes	4	static
+flash.c:68:17:highest_flash_address	8	static
+flash.c:72:16:sector_id_for_address	24	static
+flash.c:82:17:lowest_available_flash_address	4	static
+flash.c:86:10:available_flash	8	static
+flash.c:90:6:prepare_flash	24	static
+flash.c:117:6:write_flash	48	static
